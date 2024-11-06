@@ -1,2 +1,6 @@
+# 2024年度　航空機概論　課題1
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sakamurray/kuttaJoukowski/master)
+↑
+上のボタンをクリックすると，自動的に実行環境が整います．
+
