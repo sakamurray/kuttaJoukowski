@@ -1,4 +1,8 @@
+name: environmen for Binder
+channels:
+  - conda-forge
 dependencies:
   - numpy
   - sympy
+  - sympy_plot_backends
   
