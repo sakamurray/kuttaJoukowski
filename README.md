@@ -3,5 +3,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sakamurray/kuttaJoukowski/HEAD)
 
 ↑
-上のボタンをクリックすると，自動的に実行環境が整います．
+上のボタンをクリックすると，自動的に実行環境が整います（少し時間がかかる場合があります）．Kutta-Joukowski.ipynbを開き，実行してみてください．
 
